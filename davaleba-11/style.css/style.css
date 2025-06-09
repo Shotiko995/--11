@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contacts {
+    color: #5863E3;
+    width: 64px;
+    height: 20px;
+    margin-left: 144px;
+    margin-top: 57px;
+
+}
+
+.text {
+    font-size: 40px;
+    margin-top: 8px;
+    margin-left: 144px;
+    color: #000000;
+}
+
+
+.texts {
+    width: 370px;
+    height: 59px;
+    border-width: 2px;
+    margin-top: 5px;
+    margin-left: 650px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+div {
+
+
+    position: absolute;
+    width: 600px;
+    height: 315px;
+    left: 144px;
+    top: 253px;
+
+    background: #F8F8F8;
+
+    color: #99999A;
+    border-radius: 30px solid black;
+}
+
+.textss {
+    width: 370px;
+    height: 59px;
+    border-width: 2px;
+    margin-top: 2px;
+    margin-left: 650px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+
+.textsss {
+    width: 370px;
+    height: 59px;
+    border-width: 2px;
+    margin-top: 0px;
+    margin-left: 650px;
+    margin-bottom: 20px;
+    display: inline-block;
+    background-color: #5968F4;
+}
+
+i {
+    font-size: 32px;
+    color: #5968F4;
+    margin-top: 499px;
+    display: flex;
+    justify-content: center;
+    gap: 39px;
+    margin-left: 300px;
+
+}
+
+.blue {
+    color: #000000;
+    margin-left: 295px;
+    margin-bottom: 4px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.email {
+    margin-left: 240px;
+    margin-bottom: 4px;
+
+}
+
+.edu {
+    margin-left: 240px;
+
+}
+
+.phone {
+    color: #000000;
+    margin-bottom: 4px;
+    margin-left: 630px;
+    margin-top: 0%;
+    transform: translateY(-60px);
+    /* აქაც შეიძლება მაღლა აწევა */
+}
+
+.namber {
+    margin-left: 600px;
+    margin-bottom: 3px;
+    transform: translateY(-60px);
+    /* აქაც შეიძლება მაღლა აწევა */
+}
+
+.namber2 {
+    margin-left: 600px;
+    transform: translateY(-60px);
+    /* აქაც შეიძლება მაღლა აწევა */
+}
+
+.location {
+    color: #000000;
+    margin-left: 960px;
+    margin-bottom: 5px;
+    margin-top: 0%;
+    margin-top: 0;
+    transform: translateY(-120px);
+    /* აქაც შეიძლება მაღლა აწევა */
+}
+
+.str {
+    margin-left: 920px;
+    margin-bottom: 4px;
+    transform: translateY(-120px);
+    /* აქაც შეიძლება მაღლა აწევა */
+
+}
+
+.main {
+    margin-left: 920px;
+    transform: translateY(-120px);
+    /* აქაც შეიძლება მაღლა აწევა */
+}
+
+.photos {
+    color: #5863E3;
+    width: 64px;
+    height: 20px;
+    margin-top: 40px;
+    margin-left: 144px;
+}
+
+.hh1 {
+    margin-top: 7px;
+    margin-left: 144px;
+}
+
+.foto {
+    display: inline;
+    gap: 20px;
+    width: 320px;
+    height: 320px;
+    margin-left: 64px;
+    margin-top: 53px;
+
+
+}
+
+.div {
+    background-color: #000000;
+    width: 1000px;
+    height: 300px;
+    margin-top: 1200px;
+    margin-left: 0%;
+
+
+}
+
+.hotel {
+    margin-top: 63px;
+    margin-left: 143px;
+    margin-bottom: 23px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.our {
+
+    margin-left: 143px;
+    margin-bottom: 4px;
+}
+
+.facebook {
+    width: 46px;
+    height: 46px;
+    margin-left: 139px;
+    margin-top: 23px;
+
+}
+
+.tweeter {
+    width: 46px;
+    height: 46px;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.google {
+    width: 46px;
+    height: 46px;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.useful {
+    width: 108px;
+    height: 24px;
+    margin-left: 420px;
+    color: #FFFFFF;
+    transform: translateY(-190px);
+}
+
+.blog {
+    width: 125px;
+    height: 19px;
+    color: #5863E3;
+    margin-left: 420px;
+    transform: translateY(-170px);
+}
+
+.privency {
+    width: 69px;
+    height: 24px;
+    color: #FFFFFF;
+    margin-left: 550px;
+    transform: translateY(-290px);
+
+}
+
+.career {
+    width: 75px;
+    height: 19px;
+    margin-left: 550px;
+    color: #5863E3;
+    transform: translateY(-270px);
+}
+
+.info {
+    width: 114px;
+    height: 24px;
+    color: #FFFFFF;
+    margin-left: 750px;
+    transform: translateY(-390px);
+}
+.bolo{
+    color: blue;
+    margin-left: 750px;
+    width: 213px;
+height: 19px;
+    transform: translateY(-370px);
+    margin-bottom: 7px;
+}
+
+    
+
+
